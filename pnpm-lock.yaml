@@ -14,12 +14,12 @@ specifiers:
 
 dependencies:
   lodash: 4.17.21
+  picocolors: 1.0.0
 
 devDependencies:
   '@types/lodash': 4.14.191
   '@types/node': 18.11.18
   '@vitest/coverage-c8': 0.26.2
-  picocolors: 1.0.0
   rimraf: 3.0.2
   rome: 11.0.0
   tsup: 6.5.0_typescript@4.9.4
@@ -1254,7 +1254,6 @@ packages:
 
   /picocolors/1.0.0:
     resolution: {integrity: sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==}
-    dev: true
 
   /picomatch/2.3.1:
     resolution: {integrity: sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==}
